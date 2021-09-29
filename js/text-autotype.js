@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = [' Competitive Programmer | AI Engineer | Data Analyst '];
+var list = [' Software Engineer & Competitive Programmer '];
 var a = list[0];
 var len = list.length;
 var num = 0;
