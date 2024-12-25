@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = [' Software Engineer & Competitive Programmer '];
+var list = [' Senior Software Engineer I (SSE1) @Infra.Market • Backend Systems Architect & Developer '];
 var a = list[0];
 var len = list.length;
 var num = 0;
