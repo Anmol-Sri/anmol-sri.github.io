@@ -1,0 +1,14 @@
+/* TEAM */
+    Name: Anmol Srivastava
+    Role: Senior Software Engineer
+    Contact: anmolsri.cs [at] gmail.com
+    LinkedIn: https://www.linkedin.com/in/anmolsri
+    GitHub: https://github.com/Anmol-Sri
+    From: Bengaluru, India
+
+/* SITE */
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, WAI-ARIA
+    Components: Static HTML, CSS, JavaScript
+    Focus: Fintech systems, distributed backends, AI-first workflows

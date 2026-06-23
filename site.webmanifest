@@ -1,0 +1,22 @@
+{
+  "name": "Anmol Srivastava - Senior Software Engineer",
+  "short_name": "Anmol",
+  "description": "Portfolio of Anmol Srivastava, Senior Software Engineer specializing in fintech systems, distributed backends, and AI-first workflows.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101214",
+  "theme_color": "#ff4f36",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["portfolio", "developer", "software"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
